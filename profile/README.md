@@ -1,6 +1,6 @@
 <div align='center'>
 <h1 >🎈Team - Kovi</h1>
-<img src="../kovi_logo.png">
+<img src="./kovi_logo.png">
 <div>
   <h3> 📖Kovi Blog </h3>
   <a href="https://kovi-robotics.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Tistory&logoColor=black"></a>
