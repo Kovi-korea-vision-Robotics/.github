@@ -26,7 +26,7 @@
         <td align="center" width="150px">
             <a href="https://github.com/gibum1228"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/38284922?v=4"/></a>
             <br/>
-            <a href="https://github.com/gibum1228"><strong>Booms | 김기범</strong></a>
+            <a href="https://github.com/gibum1228"><strong>Beom3s | 김기범</strong></a>
             <br />
         </td>
         <td align="center" width="150px">
