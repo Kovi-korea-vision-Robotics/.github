@@ -32,7 +32,7 @@
         <td align="center" width="150px">
             <a href="https://github.com/Eumgill98"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/108447906?v=4"/></a>
             <br/>
-            <a href="https://github.com/Eumgill98"><strong>Eumgill | 정호찬</strong></a>
+            <a href="https://github.com/Eumgill98"><strong>Dobby | 정호찬</strong></a>
             <br />
         </td>
         <td align="center" width="150px">
