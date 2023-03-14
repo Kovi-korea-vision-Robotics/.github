@@ -50,7 +50,7 @@
         <td align="center" width="150px">
             <a href="https://github.com/TaeUkChu"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/121657338?v=4"/></a>
             <br />
-            <a href="https://github.com/TaeUkChu"><strong>bidulgi123 : 김범수</strong></a>
+            <a href="https://github.com/TaeUkChu"><strong>bidulgi : 김범수</strong></a>
             <br />
         </td>
     </tr>
