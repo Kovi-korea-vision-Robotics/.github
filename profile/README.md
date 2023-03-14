@@ -47,6 +47,12 @@
             <a href="https://github.com/TaeUkChu"><strong>ChuUk : 추태욱</strong></a>
             <br />
         </td>
+        <td align="center" width="150px">
+            <a href="https://github.com/TaeUkChu"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/121657338?v=4"/></a>
+            <br />
+            <a href="https://github.com/TaeUkChu"><strong>bidulgi123 : 김범수</strong></a>
+            <br />
+        </td>
     </tr>
 </table>
 </div>
